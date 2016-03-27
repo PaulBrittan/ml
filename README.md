@@ -1,2 +1,2 @@
 # ml
-Sandpit for Machine Learning Techniques
+Sandbox for Machine Learning Techniques
